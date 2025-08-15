@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+
+    font-size: 16px;
+    color: #030c14;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+body{
+    background-color: hsl(70, 36%, 72%);
+}
+
+h1{
+    font-size: 24px;
+    font-weight: 700;
+
+    font-style: oblique;
+
+    background-color: rgb(223, 202, 176);
+    color: rgb(192, 82, 62);
+
+    padding:12px;
+    text-align: center;
+}
+
+li a{
+    text-decoration:none;
+    font-size: 16px;
+
+    color: hsl(230, 95%, 30%);
+}
+li{
+    display: block;
+
+    margin-bottom: 13px;
+}
